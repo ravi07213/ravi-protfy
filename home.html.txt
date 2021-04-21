@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, inital-scale=1.0">
+	<link rel="stylesheet" href="css.css">
+	<title>My protfy</title>
+</head>
+<body>
+    <!--hero  section-->
+	<section id="hero">
+	  <div class="hero container"></div>
+	    <div>          
+		 <h1>Hello,My Name is Ravi Kumar</h1>
+		 <a herf="#" type="button" class="cta">Protfolio</a>
+		</div>
+	</div>
+	</section>
+	
+	<!-- end hero section-->
+	
+	</body>
+	</html>
